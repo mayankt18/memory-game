@@ -1,0 +1,23 @@
+#heading {
+    color: green;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+h2 {
+    color: blueviolet;
+    font-family: monospace;
+}
+.container {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+}
+
+.game {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 300px;
+}

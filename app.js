@@ -77,7 +77,7 @@ function checkForMatch () {
     } else {
         cards[optionOneId].setAttribute('src', 'images/blank.png')
         cards[optionTwoId].setAttribute('src', 'images/blank.png')
-        alert("sorry try again")
+        // alert("sorry try again")
         resultDisplay.textContent = resultDisplay.textContent - 1
     }
     cardsChosen = []
